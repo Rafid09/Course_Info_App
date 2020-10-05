@@ -3,7 +3,6 @@ import {Text, StyleSheet, View, Button, Image, TouchableOpacity, ScrollView} fro
 
 const Home = (props)=>{
     return (
-    <ScrollView>
         <View style= {styles.viewStyle}>
 
             <Image
@@ -35,7 +34,6 @@ const Home = (props)=>{
             </View>
 
         </View>
-    </ScrollView>
         )
 }
 
