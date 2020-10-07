@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\secondApp",
+    "\\secondApp\\src",
+    "\\secondApp\\src\\screens"
   ],
-  "SelectedNode": "\\secondApp",
+  "SelectedNode": "\\secondApp\\src\\screens\\Home.js",
   "PreviewInSolutionExplorer": false
 }

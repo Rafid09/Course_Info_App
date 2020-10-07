@@ -31,7 +31,6 @@ const styles = StyleSheet.create({
   },
   viewStyle: {
     margin: 15,
-    alignSelf: 'center'
 },
 })
 
